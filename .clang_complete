@@ -1,0 +1,9 @@
+-DDEBUG
+-pthread
+-I/usr/include/ImageMagick-7
+-I/usr/lib/gcc/x86_64-redhat-linux/5.1.1/../../../../include/c++/5.1.1
+-I/usr/lib/gcc/x86_64-redhat-linux/5.1.1/../../../../include/c++/5.1.1/x86_64-redhat-linux
+-I/usr/lib/gcc/x86_64-redhat-linux/5.1.1/../../../../include/c++/5.1.1/backward
+-I/usr/lib/gcc/x86_64-redhat-linux/5.1.1/include
+-I/usr/local/include
+-I/usr/include
